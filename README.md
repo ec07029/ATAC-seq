@@ -1,5 +1,6 @@
 # ATAC-seq
 ATAC-seq pipeline for snakemake
+
 Author: K Chu
 
 Steps: 
