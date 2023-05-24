@@ -1,3 +1,5 @@
+# author: K Chu
+
 source("https://bioconductor.org/biocLite.R")
 
 #biocLite("ChIPseeker")
