@@ -1,5 +1,6 @@
 # ATAC-seq
 ATAC-seq pipeline for snakemake
+Author: K Chu
 
 Steps: 
 1) fastqc - to check quality on fastq.gz files
